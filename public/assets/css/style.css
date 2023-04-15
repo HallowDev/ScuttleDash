@@ -1,0 +1,7 @@
+.bg-dark {
+    background-color: #60A672 !important;
+}
+
+body {
+    background-image: linear-gradient(rgba(61, 115, 90, 0.8), rgba(61, 115, 90, 0.8)), url("yasuo.jpg");
+}
